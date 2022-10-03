@@ -85,6 +85,10 @@ composer create-project nilanth/laravel-react-boilerplate
 - Reset Password
 - Email Verification
 
+## Api Test Available
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a3cc4112d5966d96b4bf?action=collection%2Fimport)
+
 ## Contributing
 
 Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for details.

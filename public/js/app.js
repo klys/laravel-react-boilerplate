@@ -14762,7 +14762,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 var constants = {
-  HOST_URL: 'https://laravel-react-boilerplate.herokuapp.com/api',
+  HOST_URL: 'http://127.0.0.1:8000/api',
   headers: {
     'Content-Type': 'application/json',
     Accept: 'application/json'
